@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Alexandria | Automation & Healthcare Logistics</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Alexandria</h1>
+    <p>Automation Specialist | Healthcare Logistics | Web Design</p>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#services">Services</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section id="hero">
+    <h2>Smart Solutions for Complex Workflows</h2>
+    <p>Empowering logistics and marketing teams with automation tools like Go High Level and Renderforest.</p>
+  </section>
+
+  <section id="about">
+    <h3>About Me</h3>
+    <p>I specialize in streamlining operations through automation and optimizing healthcare logistics systems. With a background in customs and shipment coordination, I bring precision and adaptability to every project.</p>
+  </section>
+
+  <section id="services">
+    <h3>Services</h3>
+    <ul>
+      <li>Automation Workflow Design (Go High Level)</li>
+      <li>Healthcare Logistics Optimization</li>
+      <li>Sales Funnel Development</li>
+      <li>Custom Web Design</li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h3>Contact</h3>
+    <p>Email: <a href="mailto:alexandria@example.com">alexandria@example.com</a></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Alexandria. All rights reserved.</p>
+  </footer>
+</body>
+</html>
